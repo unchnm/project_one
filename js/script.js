@@ -1,5 +1,5 @@
 
-const numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');
+/* const numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');
 
 const personalMoviesDB = {
     count: numberOfFilms,
@@ -16,4 +16,14 @@ const a = prompt('Один из последних просмотренных ф
 
       personalMoviesDB.movies[a] = b;
 
-      console.log (personalMoviesDB);
+      console.log (personalMoviesDB); */
+
+
+  /*  if (9==9) {
+       console.log('Ok!');
+   } else {
+       console.log('Error!');
+   }
+
+
+ 
